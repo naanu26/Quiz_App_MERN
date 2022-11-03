@@ -1,0 +1,43 @@
+.container ol li{
+    font-size: 1.4em;
+    color: white;
+    padding: 5px;
+}
+
+.container h3{
+    font-size: 1.4em;
+    color:white;
+}
+
+
+.start{
+    display: flex;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.start .btn{
+    padding: .2em 1.7em;
+    border: 2px solid white;
+    border-radius: .1em;
+    font-size: 1.2em;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #FF10F0;
+    border-radius: 10px;
+}
+
+#form{
+    display: flex;
+    justify-content: center;
+    margin-top: 4em;
+}
+
+#form .userid{
+    padding: .7em 2em;
+    width: 50%;
+    border: none;
+    border-radius: 10px;
+    font-size: 1em;
+}
